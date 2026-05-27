@@ -9,3 +9,4 @@ public class LogIn {
     }
 }
 
+//Clase con multiples responsabilidades
